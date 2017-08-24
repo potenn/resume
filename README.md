@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 # resume
-# Simple-Web-Application-with-Node.js-using-Express-Framework
-# Simple-Web-Application-with-Node.js-using-Express-Framework
-=======
+
 김민기
 ====
 
@@ -52,5 +49,3 @@
 
 - 담당 업무: 프로토타이핑부터 앱스토어오픈까지 개발진행 및 유지보수 
 - 사용 기술: Objective-C, Realm
->>>>>>> 212b86d2aa0a6690a2eb34aceb0446724eb8c542
-# Simple-Web-Application-with-Node.js-using-Express-Framework
